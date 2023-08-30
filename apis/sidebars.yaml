@@ -1,0 +1,4 @@
+- group: Petstore reference
+  expanded: false
+  pages:
+    - page: reference.page.yaml/*

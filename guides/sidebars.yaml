@@ -1,0 +1,9 @@
+- group: Guides
+  page: getting-started.md
+  pages:
+    - page: page-1.md
+      label: Page 1
+    - page: page-2.md
+      label: Page 2
+    - page: page-3.md
+      label: Page 3
